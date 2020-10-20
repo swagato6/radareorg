@@ -18,4 +18,4 @@ cd radareorg
 sphinx-build source build
 ```
 
-Open `index.html` located in `build` directory to start reading the documentation.
+Open `index.html` located in `build` directory to start reading the  documentation.
